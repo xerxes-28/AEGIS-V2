@@ -125,7 +125,7 @@ Dataset construction followed a strict licensing policy: MIT/BSD/Apache-licensed
 ```bibtex
 @misc{aegis2026,
   title={AEGIS v2: Compiler-Verified Code Generation for Embedded Systems and Robotics},
-  author={Charles and Yoganand and GP and RS and AD and Krishna},
+  author={Charles },
   year={2026},
   howpublished={\url{https://github.com/xerxes-28/AEGIS-v2}}
 }
