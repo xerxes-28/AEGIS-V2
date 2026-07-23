@@ -65,7 +65,7 @@ The core idea: most code-generation models are trained to produce code that *loo
 | Fine-tuning method | QLoRA (r=64, α=128) + DPO |
 | Dataset size | 340K–420K+ samples |
 | Negative pair source | Real compiler failures |
-| Compute | Colab Pro, 80GB A100 |
+| Compute | Colab Pro ~ |
 | RAG stack | Qdrant + BGE-M3 + BM25 |
  
 ## Results
